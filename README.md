@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Shraddha
 
-<!--
-**SHRADDHA-D-S/SHRADDHA-D-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Student (CSE(DATA SCIENCE))
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Machine Learning
+- Pandas
+- NumPy
+
+🚀 Currently Learning
+- Data Analytics
+- Deep Learning
+- Tableau
+
+📫 Connect with me
+
+LinkedIn:https://www.linkedin.com/in/shraddha-d-s
+GitHub:https://github.com/SHRADDHA-D-S
+Email:shraddhads1523@gmail.com
