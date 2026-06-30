@@ -46,10 +46,6 @@ To become a Data Analyst and solve real-world business problems using data.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
@@ -93,13 +89,11 @@ An AI-powered study planner that helps students organize their schedules and tra
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/shraddha-d-s
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shraddha-d-s)
 
-Email: shraddhads1523@gmail.com
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shraddhads1523@gmail.com)
 
 ---
 
