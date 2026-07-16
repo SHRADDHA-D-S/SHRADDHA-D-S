@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Data Science Student | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SHRADDHA-D-S&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -11,11 +11,9 @@
 
 🎓 Final Year B.E. Computer Science & Engineering (Data Science) Student
 
-🏫 Alva's Institute of Engineering and Technology (VTU)
-
 📊 Passionate about transforming raw data into meaningful insights.
 
-💡 Interested in Data Analytics, Machine Learning, Business Intelligence and AI-powered applications.
+💡 Interested in Data Analytics, Machine Learning and AI-powered applications.
 
 🌱 Currently learning
 
@@ -101,7 +99,7 @@ To become a Data Analyst who leverages data to solve real-world business problem
 - FastAPI
 - MLflow
 - Docker
-- AWS Deployment
+- Render Deployment
 - XGBoost
 - Random Forest
 - Logistic Regression
@@ -161,15 +159,15 @@ An AI-powered planner that creates personalized study schedules based on deadlin
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SHRADDHA-D-S&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRADDHA-D-S&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRADDHA-D-S&theme=tokyonight"/>
 
 </p>
 
