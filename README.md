@@ -1,100 +1,192 @@
-# Hi there, I'm Shraddha 👋
+<h1 align="center">Hi 👋, I'm Shraddha D S</h1>
+<h3 align="center">Aspiring Data Analyst | Data Science Student | AI & ML Enthusiast</h3>
 
-## 🚀 Aspiring Data Analyst | AI & ML Student
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I'm a passionate Computer Science student specializing in Data Science. I enjoy transforming raw data into meaningful insights and building data-driven applications.
+---
 
-🌱 Currently Learning
-- Data Analytics
-- SQL
+## 👩‍💻 About Me
+
+🎓 Final Year B.E. Computer Science & Engineering (Data Science) Student
+
+🏫 Alva's Institute of Engineering and Technology (VTU)
+
+📊 Passionate about transforming raw data into meaningful insights.
+
+💡 Interested in Data Analytics, Machine Learning, Business Intelligence and AI-powered applications.
+
+🌱 Currently learning
+
+- Advanced SQL
 - Power BI
-- Python for Data Analysis
+- Tableau
 - Machine Learning
+- Data Visualization
+- Statistics
+- Cloud Technologies
 
 🎯 Career Goal
-To become a Data Analyst and solve real-world business problems using data.
+
+To become a Data Analyst who leverages data to solve real-world business problems and support data-driven decision making.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Data Analytics
+---
+
+## Data Analytics & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Stats
+## Data Visualization
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## Web Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+---
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+## Cloud & Tools
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 Scholarship Hub
-A web application that helps institutions identify scholarship-eligible students using predefined eligibility criteria.
+## 📊 Customer Churn Prediction
+
+- End-to-End Machine Learning Project
+- FastAPI
+- MLflow
+- Docker
+- AWS Deployment
+- XGBoost
+- Random Forest
+- Logistic Regression
+
+---
+
+## 🤖 AgriBot – AI Agriculture Assistant
+
+✔ Crop Disease Prediction
+
+✔ AI Chatbot
+
+✔ JWT Authentication
+
+✔ Django REST API
+
+✔ React Frontend
+
+---
+
+## 🎓 Scholarship Hub
+
+A MERN Stack web application that automates scholarship eligibility verification and management.
 
 **Tech Stack**
+
 - React
 - Node.js
-- MongoDB
 - Express
+- MongoDB
+- JWT Authentication
+- Tailwind CSS
 
 ---
 
-### 📊 Sales Data Analysis
-Analyzed sales data using Python, Pandas, and Matplotlib to identify trends and improve business insights.
+## 📅 Smart AI Study Planner
+
+An AI-powered planner that creates personalized study schedules based on deadlines and learning preferences.
 
 ---
 
-### 🤖 AI Study Planner
-An AI-powered study planner that helps students organize their schedules and track learning progress.
+# 📜 Certifications
+
+🏅 NPTEL Elite + Silver – Introduction to IoT
+
+🏅 NPTEL – Cloud Computing
+
+🏅 Google Cloud Career Launchpad – Data Analytics Track
+
+🏅 AI Internship – Aptpath SmartX Technologies
+
+🏅 Deloitte Data Analytics Job Simulation (Forage)
 
 ---
 
-## 📈 Currently Learning
+# 📈 GitHub Analytics
 
-✔ Advanced SQL
+<p align="center">
 
-✔ Power BI
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-✔ Tableau
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-✔ Machine Learning
+</p>
 
-✔ Data Visualization
+<p align="center">
 
-✔ Statistics for Data Analytics
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shraddha-d-s)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shraddhads1523@gmail.com)
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shraddha-d-s)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddhads1523@gmail.com)
+
+---
+
+## 💬 Quote
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
