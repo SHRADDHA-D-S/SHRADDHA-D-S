@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shraddha D S</h1>
 <h3 align="center">Aspiring Data Analyst | Data Science Student | AI & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHRADDHA-D-S&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
