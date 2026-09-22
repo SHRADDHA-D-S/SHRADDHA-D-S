@@ -12,7 +12,7 @@
 
 🌱 Currently learning
 
-- Advanced SQL
+- SQL
 - Power BI
 - Tableau
 - Machine Learning
